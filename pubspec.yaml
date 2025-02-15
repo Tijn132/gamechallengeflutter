@@ -1,0 +1,33 @@
+name: gamechallenge
+description: Flutter 2D game
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^2.16.0
+  flutter: ^2.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.1.0
+  flutter_lints: ^2.0.0
+  flame_tiled: ^1.0.0
+  flutter_bloc: ^9.0.0
+  flame_audio: ^2.11.0
+
+flutter:
+  assets:
+    - assets/images/sounds/
+    - assets/images/sprites/knight.png
+    - assets/images/sprites/coin.png
+    - assets/images/sprites/heart.png
+    - assets/images/sprites/game_over.png
+    - assets/images/sprites/win.png
+    - assets/images/music/time_for_adventure.mp3
+    - assets/images/sounds/jump.mp3
+    - assets/images/sounds/coin.wav
+    - assets/images/sprites/world_tileset.png
+    - assets/images/music/
+    - assets/tiles/
+    - assets/tiles/Level-01.tmx

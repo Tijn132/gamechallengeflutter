@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Alle Bestanden (*)",
+    "fileStates": {
+        "FirstLevel.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "Level-01.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 210.25,
+                "y": 227.25
+            }
+        },
+        "Level1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/tijnd/Project/FlutterFlameGame/gamechallengeflutter/assets/images/sprites",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Level-01.tmx"
+    ],
+    "project": "GameChallenge.tiled-project",
+    "recentFiles": [
+        "Level-01.tmx",
+        "Level1.tsx",
+        "FirstLevel.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
